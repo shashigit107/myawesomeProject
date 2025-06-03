@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "479363986901",
+    "project_id": "euphoria-8f8b8",
+    "storage_bucket": "euphoria-8f8b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479363986901:android:711bcc8bf208b20132395c",
+        "android_client_info": {
+          "package_name": "com.myawesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479363986901-1s365k94laqno26o1hgov2qlm2dqr6u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3-9FfJgJ13XhnjzLFQpP82Tc4Jx3Q3ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479363986901-1s365k94laqno26o1hgov2qlm2dqr6u5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479363986901-fa6rsnreagviq2ktcke32ssvgtci5f7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
