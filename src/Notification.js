@@ -76,8 +76,6 @@ async function notifficationHandler() {
     messaging().setBackgroundMessageHandler(async remoteMessage => {
         console.log('Message handled in the background!', remoteMessage);
     });
-    const message = await messaging().getInitialNotification();
-    console.log("---checkjout message", message)
     const unsubscribe = messaging().onNotificationOpenedApp(remoteMessage => {
         console.log("--whern app is open ")
     });
